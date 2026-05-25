@@ -1,0 +1,6 @@
+{
+  "name": "رافع مشاريع GitHub",
+  "description": "تطبيق مميز لرفع مشاريعك (كوتلين، جافا، XML، أو ملفات APK) إلى حسابك في موقع GitHub بسهولة تامة وبخيارات خصوصية متعددة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
